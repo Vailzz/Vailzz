@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MisionTic challenges](https://www.misiontic2022.gov.co/portal/)
 
-- 🌱 I’m currently learning **at MisionTic's courses, CS50 harvard University computer science courses**
+- 🌱 I’m currently learning **at MisionTic's courses, CS50 harvard University computer science course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Toovil](https://github.com/Toovil)
 
