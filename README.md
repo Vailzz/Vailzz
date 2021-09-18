@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Juan José!</h1>
 <h3 align="center">A passionate Software developer from Colombia</h3>
 
-- 🔭 I’m currently working on [MisionTic](https://www.misiontic2022.gov.co/portal/)
+- 🔭 I’m currently working: on [MisionTic](https://www.misiontic2022.gov.co/portal/)
 
-- 🌱 I’m currently learning **at MisionTic's courses, CS50 harvard University computer science course**
+- 🌱 I’m currently learning: **at MisionTic's courses, CS50 harvard University computer science course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Toovil](https://github.com/Toovil)
+- 👨‍💻 All of my projects are available at: [https://github.com/Toovil](https://github.com/Toovil)
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about: **Python, Java**
 
-- 📫 How to reach me **jujotovil@gmail.com**
+- 📫 How to reach me: **jujotovil@gmail.com**
 
-- ⚡ Know me more! **I'm a good musician and also I'm a cat lover!**
+- ⚡ Know me more: **I'm a good musician and also I'm a cat lover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
