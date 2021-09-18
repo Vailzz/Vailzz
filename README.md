@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toovil&label=Profile%20views&color=0e75b6&style=flat" alt="toovil" /> </p>
 
-- 🔭 I’m currently working on [MisionTic challenges](https://www.misiontic2022.gov.co/portal/)
+- 🔭 I’m currently working on [MisionTic](https://www.misiontic2022.gov.co/portal/)
 
 - 🌱 I’m currently learning **at MisionTic's courses, CS50 harvard University computer science course**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jujotovil@gmail.com**
 
-- ⚡ Fun fact **I'm a good musician and also I'm a cat lover!**
+- ⚡ Know me more! **I'm a good musician and also I'm a cat lover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toovil&show_icons=true&locale=en&layout=compact" alt="toovil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toovil&show_icons=true&locale=en" alt="toovil" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=toovil&show_icons=true&locale=en" alt="toovil" /></p>
