@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Juan José!</h1>
 <h3 align="center">A passionate Software developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toovil&label=Profile%20views&color=0e75b6&style=flat" alt="toovil" /> </p>
-
 - 🔭 I’m currently working on [MisionTic](https://www.misiontic2022.gov.co/portal/)
 
 - 🌱 I’m currently learning **at MisionTic's courses, CS50 harvard University computer science course**
