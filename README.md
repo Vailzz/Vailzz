@@ -1,6 +1,6 @@
 # Toovil
 <h1 align="center">Hi 👋, I'm Juan José!</h1>
-<h3 align="center">A passionate Software developer from Colombia</h3>
+<h3 align="center">A passionate junior in Software developing  from Colombia</h3>
 
 - 🔭 I’m currently working: on [MisionTic](https://www.misiontic2022.gov.co/portal/)
 
