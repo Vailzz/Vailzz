@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Juan José!</h1>
 <h3 align="center">A passionate junior in Software developing  from Colombia</h3>
 
-- 🔭 I’m currently working: on [MisionTic](https://www.misiontic2022.gov.co/portal/)
+- 🔭 I’m currently working on: [MisionTic](https://www.misiontic2022.gov.co/portal/)
 
 - 🌱 I’m currently learning: **at MisionTic's courses, CS50 harvard University computer science course**
 
