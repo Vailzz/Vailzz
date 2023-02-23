@@ -6,7 +6,7 @@
 
 - 📝 I'm studying Computer and systems engineering at Universidad Nacional de Colombia
 
-- 💬 Ask me about: **Python, Javascript**
+- 💬 Ask me about: **Python, Javascript, Django**
 
 - 📫 How to reach me: **jujotovil@gmail.com**
 
