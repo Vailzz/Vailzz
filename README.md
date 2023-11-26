@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **jujotovil@gmail.com**
 
-- ⚡ Know me more: **I love calisthenics, I'm a good musician and also a cat lover!**
+- ⚡ Know me more: **I love calisthenics, I'm a musician and also a cat lover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
