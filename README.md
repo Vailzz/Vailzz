@@ -1,6 +1,6 @@
 # Toovil
 <h1 align="center">Hi 👋, I'm Juan José!</h1>
-<h3 align="center">A passionate junior programmer from Colombia</h3>
+<h3 align="center">A passionate programmer from Colombia</h3>
 
 - 🔭 I've been in courses such as: MisionTic, CS50 harvard University computer science course
 
