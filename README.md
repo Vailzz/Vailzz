@@ -1,4 +1,4 @@
-# Viltov
+# Vailzz
 <h1 align="center">Hi 👋, I'm Juan José!</h1>
 <h3 align="center">A passionate programmer from Colombia</h3>
 
